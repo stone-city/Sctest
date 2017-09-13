@@ -1,2 +1,3 @@
 # Sctest
 test
+test update
